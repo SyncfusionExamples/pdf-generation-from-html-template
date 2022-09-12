@@ -1,0 +1,60 @@
+{
+  "InvoiceNumber": "INVOICE 3-4-8",
+  "IssueDate": "08/09/2022",
+  "DueDate": "20/10/2022",
+  "CompanyDetails": {
+    "Name": "Sample software solutions",
+    "Address": "455 Foggy Heights, AZ 85004, US",
+    "Phone": "(602) 519-0450",
+    "Email": "company@example.com"
+  },
+  "CustomerDetails": {
+    "Name": "John Doe",
+    "Address": "796 Silver Harbour, TX 79273, US",
+    "Email": "john@example.com"
+  },
+  "Items": [
+    {
+      "Name": "Website Design",
+      "Description": "Creating a recognizable design solution based on the company's existing visual identity",
+      "Price": 40,
+      "Quantity": 30
+    },
+    {
+      "Name": "Website Development",
+      "Description": "Developing a Content Management System-based Website",
+      "Price": 40,
+      "Quantity": 80
+    },
+    {
+      "Name": "Search Engines Optimization",
+      "Description": "Optimize the site for search engines (SEO)",
+      "Price": 50,
+      "Quantity": 20
+    },
+    {
+      "Name": "Redesign a service site",
+      "Description": "Redesign a service site similar to match another site",
+      "Price": 60,
+      "Quantity": 10
+    },
+    {
+      "Name": "Chrome extension development",
+      "Description": "Social chrome extension app using react js",
+      "Price": 2000,
+      "Quantity": 1
+    },
+    {
+      "Name": "Site admin development",
+      "Description": "Created the site admin page to control web page",
+      "Price": 1500,
+      "Quantity": 1
+    },
+    {
+      "Name": "Video content preparation",
+      "Description": "Created the video to showcase the page in social media",
+      "Price": 500,
+      "Quantity": 4
+    }
+  ]
+}

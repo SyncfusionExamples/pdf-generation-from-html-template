@@ -10,7 +10,7 @@
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="Scriban" Version="5.5.0" />
-    <PackageReference Include="Syncfusion.HtmlToPdfConverter.Blink.Net.Core.Windows" Version="20.2.0.48" />
+    <PackageReference Include="Syncfusion.HtmlToPdfConverter.Net.Windows" Version="20.3.0.47" />
   </ItemGroup>
 
   <ItemGroup>

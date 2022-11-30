@@ -4,7 +4,7 @@ The [Syncfusion HTML to PDF converter](https://www.syncfusion.com/document-proce
 
 Sample name | Description
 --- | ---
-[Generate Dynamic PDF](https://github.com/SyncfusionExamples/pdf-generation-from-html-template/blob/master/PdfGeneration) | Generate dynamic PDF reports from an HTML
+[Generate Dynamic PDF](https://github.com/SyncfusionExamples/pdf-generation-from-html-template/blob/master/PdfGeneration) | Generate dynamic PDF reports from an HTML template
 
 
 # How to run the examples
